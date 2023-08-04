@@ -2,5 +2,8 @@
 console.log("Trabalhando com varíavel");
 //JS é case sensetive
 
-idade = 29;
+idade = 15;
 const nome = "Fernanda";
+
+// não fazer
+//mês = "Outubro";
